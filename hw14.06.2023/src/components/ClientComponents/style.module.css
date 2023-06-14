@@ -1,0 +1,17 @@
+.clientContainer{
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    width: 170.49px;
+    height: 39.1px;
+    width:max-content;
+    
+}
+
+.title{
+    color: #B2B2B2;
+}
+
+.image{
+    background: #B2B2B2;
+}

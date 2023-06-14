@@ -1,0 +1,50 @@
+.headerComponents{
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 53px 10vw 100px 10vw;
+    height: 58px;
+
+}
+
+.logoContainer{
+    display: flex;
+    gap: 25px;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    
+}
+
+.title{
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #202020;
+    
+}
+
+.navLists{
+    display: flex;
+    gap:37px;
+    list-style-type: none;
+}
+
+.link{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    color: #202020;
+
+
+}
+
+
+

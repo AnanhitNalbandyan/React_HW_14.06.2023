@@ -1,0 +1,7 @@
+.componentsContainer{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 1081.04px;
+    height: 249.15px;
+    margin: 53px 20vw 117px 20vw;
+}

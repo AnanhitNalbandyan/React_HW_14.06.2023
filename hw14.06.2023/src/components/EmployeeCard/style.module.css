@@ -1,0 +1,38 @@
+.employeeCardContainer{
+display: flex;
+align-items: center;
+gap: 35px;
+}
+
+.employeeImg{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.positionContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
+}
+
+.employeeName{
+    margin: 0;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 32px;
+    color: #202020;
+    
+}
+
+.employePosition{
+    margin: 0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B2B2B2;
+    width: max-content;
+    
+}

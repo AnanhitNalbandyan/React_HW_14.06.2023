@@ -1,0 +1,33 @@
+.footerComponents{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10vw 0px 10vw;
+    width: 80vw;
+    height: 100px;
+    position: fixed;
+    bottom: 0;
+    background: #F7F7F7;
+    
+}
+.logo{
+    width: 60px;
+    height: 60px;
+}
+
+.socialLogos{
+    list-style-type: none;
+    display: flex;
+    gap: 40px;
+
+}
+
+.link{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #B2B2B2;
+
+}
