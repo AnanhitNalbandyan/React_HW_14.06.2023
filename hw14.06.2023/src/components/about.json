@@ -6,17 +6,19 @@
     "image": "../icons/smartphone.svg"
   },
   {
-    "title": "Product Design",
-    "description": "We create design given the product audience, goal, business domain, technology and the platform for the solution.",
-    "id": 2,
-    "image": "../icons/layers.svg"
-  },
-  {
     "title": "Web Development",
     "description": "Mamon offers full range of services from various CMS and frameworks based websites to complex ERP/CRM solutions and e-commerce stores.",
-    "id": 3,
+    "id": 2,
     "image": "../icons/monitor.svg"
   },
+  
+  {
+    "title": "Product Design",
+    "description": "We create design given the product audience, goal, business domain, technology and the platform for the solution.",
+    "id": 3,
+    "image": "../icons/layers.svg"
+  },
+  
   {
     "title": "Quality Assurance",
     "description": "Our QA team ensures high standard of quality of products delivered.",
